@@ -3,7 +3,7 @@
     "description": "Better DBCurrency class for SilverStripe",
     "type": "silverstripe-vendormodule",
     "require": {
-        "silverstripe/cms": "^4"
+        "silverstripe/framework": "^4"
     },
     "extra": {
         "installer-name": "better-currency"
