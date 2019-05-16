@@ -1,0 +1,16 @@
+{
+    "name": "nobrainerweb/silverstripe-better-currency",
+    "description": "Better DBCurrency class for SilverStripe",
+    "type": "silverstripe-vendormodule",
+    "require": {
+        "silverstripe/cms": "^4"
+    },
+    "extra": {
+        "installer-name": "better-currency"
+    },
+    "autoload": {
+        "psr-4": {
+            "BetterCurrency\\": "src/"
+        }
+    }
+}
